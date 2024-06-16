@@ -8,6 +8,7 @@
 <style>
 img {
   display: block;
+  width: 200px;
   height: 300px;
   filter: drop-shadow(0px 0px 5px yellow);
 }
